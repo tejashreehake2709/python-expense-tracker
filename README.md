@@ -282,6 +282,6 @@ If the month has no records, the app shows a friendly message instead of zeros.
 **Tejashree Hake**
 BBA (Computer Applications) student, Savitribai Phule Pune University, Pune
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-- Email: your.email@example.com
+- GitHub: [tejashreehake2709](https://github.com/tejashreehake2709)
+- LinkedIn: [Tejashree Hake](https://www.linkedin.com/in/tejashree-hake-701930339/)
+- Email: tejashreehake2709@gmail.com
